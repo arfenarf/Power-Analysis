@@ -4,6 +4,7 @@
 require(XML)
 require(dplyr)
 require(lubridate)
+print(now())
 
 # first:  a lap parsing FUN:
 
@@ -26,6 +27,8 @@ dwg_lr_root <- xmlRoot(xmlInternalTreeParse("tcxfiles//20150524-dwg-b.tcx"))
 ns <- c(ns="http://www.garmin.com/xmlschemas/TrainingCenterDatabase/v2")
 
 print("trees parsed")
+print(now())
+
 
 # so lots of this eventually gets put into a loop over files
 # takes a long time for these 100-milers we're playing with
@@ -34,14 +37,21 @@ print("trees parsed")
 # this throws an error and was just done for exploration anyway
 
 kactivity <- xmlToDataFrame(nodes <- getNodeSet(kgw_lr_root, "//ns:Activity", ns), stringsAsFactors = FALSE)
+print("kactivity")
+print(now())
+
 # one obs of [laps + 2] variables
 # Id = start time.
 # one var per lap containing lap data squinched together down to the trackpoint
 # one obs containing the creator info squinched
 # var names are a mess
 
+
 # klap <- xmlToDataFrame(nodes <- getNodeSet(kgw_lr_root, "//ns:Lap", ns))
 klap <- Fun2(kgw_lr_root)
+print("klap")
+print(now())
+
 # one obs per lap
 # TotalTimeSeconds
 # DistanceMeters
@@ -58,10 +68,16 @@ klap <- Fun2(kgw_lr_root)
 # StartTime (yay!)
 
 klap_ex <- xmlToDataFrame(nodes <- getNodeSet(kgw_lr_root, "//ns:Lap/ns:Extensions", ns), stringsAsFactors = FALSE)
+print("klap_ex")
+print(now())
+
 # Extensions (MaxBikeCadence, AvgSpeed, AvgWatts, MaxWatts)
 # (not sure we really need this but if you want 'em)
 
 ktrackpoints <- xmlToDataFrame(nodes <- getNodeSet(kgw_lr_root, "//ns:Trackpoint", ns), stringsAsFactors = FALSE)
+print("ktrackpoints")
+print(now())
+
 # goes away to the faeries for a long time on big files like this.
 # start looking for efficiencies.
 # Time (comes in as chr, like all these, we'll have to parse later)
@@ -76,6 +92,9 @@ ktrackpoints <- xmlToDataFrame(nodes <- getNodeSet(kgw_lr_root, "//ns:Trackpoint
 # like this. although it felt kind of lame.
 
 kpositions <- xmlToDataFrame(nodes <- getNodeSet(kgw_lr_root, "//ns:Trackpoint/ns:Position", ns), stringsAsFactors = FALSE)
+print("kpositions")
+print(now())
+
 #go get all the detail positions instead of trying to break apart random-length nos
 
 print("Kate loaded")
