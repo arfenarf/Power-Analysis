@@ -1,0 +1,1538 @@
+!SESSION 2015-05-27 19:12:40.874 -----------------------------------------------
+eclipse.buildId=3.6.1.201410201044
+java.version=1.6.0_65
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86, WS=cocoa, NL=en_US
+Framework arguments:  -keyring /Users/kath/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86 -keyring /Users/kath/.eclipse_keyring -consoleLog -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2015-05-27 19:13:08.626
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+!SESSION 2015-05-27 19:18:07.526 -----------------------------------------------
+eclipse.buildId=3.6.1.201410201044
+java.version=1.6.0_65
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86, WS=cocoa, NL=en_US
+Framework arguments:  -keyring /Users/kath/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86 -keyring /Users/kath/.eclipse_keyring -consoleLog -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2015-05-27 19:18:13.110
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:01:12.926
+!MESSAGE Getting XSLT runtime
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:01:13.059
+!MESSAGE Evaluating XPath: 
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:01:13.059
+!MESSAGE Against XML with length: 196573
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:01:13.059
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:01:13.059
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:01:14.903
+!MESSAGE Evaluating XPath: 
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:01:14.904
+!MESSAGE Against XML with length: 196573
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:01:14.904
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:01:14.905
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:11:18.600
+!MESSAGE Evaluating XPath: /
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:11:18.601
+!MESSAGE Against XML with length: 166238
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:11:18.601
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:11:18.601
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:11:18.607
+!MESSAGE Building Xdm
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:11:18.644
+!MESSAGE Evaluating XPath
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:11:18.655
+!MESSAGE Transforming result
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:11:18.656
+!MESSAGE Result atomic value: false
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:11:18.656
+!MESSAGE Pretty printing
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:11:36.055
+!MESSAGE Evaluating XPath: /TrainingCenterDatabase
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:11:36.056
+!MESSAGE Against XML with length: 166238
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:11:36.056
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:11:36.057
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:11:36.065
+!MESSAGE Building Xdm
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:11:36.072
+!MESSAGE Evaluating XPath
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:11:36.074
+!MESSAGE Transforming result
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:11:36.074
+!MESSAGE Result atomic value: false
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:11:36.074
+!MESSAGE Pretty printing
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:11:52.976
+!MESSAGE Evaluating XPath: /Lap
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:11:52.977
+!MESSAGE Against XML with length: 166238
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:11:52.977
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:11:52.978
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:11:52.979
+!MESSAGE Building Xdm
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:11:52.987
+!MESSAGE Evaluating XPath
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:11:52.988
+!MESSAGE Transforming result
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:11:52.988
+!MESSAGE Result atomic value: false
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:11:52.988
+!MESSAGE Pretty printing
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:11:54.489
+!MESSAGE Evaluating XPath: /Lap
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:11:54.489
+!MESSAGE Against XML with length: 166238
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:11:54.490
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:11:54.490
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:11:54.491
+!MESSAGE Building Xdm
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:11:54.496
+!MESSAGE Evaluating XPath
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:11:54.496
+!MESSAGE Transforming result
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:11:54.496
+!MESSAGE Result atomic value: false
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:11:54.497
+!MESSAGE Pretty printing
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:11:57.287
+!MESSAGE Evaluating XPath: //Lap
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:11:57.288
+!MESSAGE Against XML with length: 166238
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:11:57.288
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:11:57.288
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:11:57.289
+!MESSAGE Building Xdm
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:11:57.299
+!MESSAGE Evaluating XPath
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:11:57.300
+!MESSAGE Transforming result
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:11:57.300
+!MESSAGE Result atomic value: false
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:11:57.300
+!MESSAGE Pretty printing
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:11:58.648
+!MESSAGE Evaluating XPath: //Lap
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:11:58.648
+!MESSAGE Against XML with length: 166238
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:11:58.649
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:11:58.649
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:11:58.650
+!MESSAGE Building Xdm
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:11:58.655
+!MESSAGE Evaluating XPath
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:11:58.655
+!MESSAGE Transforming result
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:11:58.655
+!MESSAGE Result atomic value: false
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:11:58.656
+!MESSAGE Pretty printing
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:12:26.282
+!MESSAGE Evaluating XPath: //Activities
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:12:26.283
+!MESSAGE Against XML with length: 166238
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:12:26.283
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:12:26.284
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:12:26.288
+!MESSAGE Building Xdm
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:12:26.297
+!MESSAGE Evaluating XPath
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:12:26.297
+!MESSAGE Transforming result
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:12:26.298
+!MESSAGE Result atomic value: false
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:12:26.298
+!MESSAGE Pretty printing
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:12:27.658
+!MESSAGE Evaluating XPath: //Activities
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:12:27.658
+!MESSAGE Against XML with length: 166238
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:12:27.659
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:12:27.659
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:12:27.659
+!MESSAGE Building Xdm
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:12:27.665
+!MESSAGE Evaluating XPath
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:12:27.665
+!MESSAGE Transforming result
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:12:27.665
+!MESSAGE Result atomic value: false
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:12:27.666
+!MESSAGE Pretty printing
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:12:38.747
+!MESSAGE Evaluating XPath: //Activities
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:12:38.747
+!MESSAGE Against XML with length: 166238
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:12:38.748
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:12:38.748
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:12:38.749
+!MESSAGE Building Xdm
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:12:38.757
+!MESSAGE Evaluating XPath
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:12:38.757
+!MESSAGE Transforming result
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:12:38.759
+!MESSAGE Result atomic value: false
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:12:38.759
+!MESSAGE Pretty printing
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:13:00.529
+!MESSAGE Evaluating XPath: text(/)
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:13:00.529
+!MESSAGE Against XML with length: 166238
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:13:00.530
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:13:00.530
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:13:08.922
+!MESSAGE Evaluating XPath: /text()
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:13:08.922
+!MESSAGE Against XML with length: 166238
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:13:08.923
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:13:08.923
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:13:08.923
+!MESSAGE Building Xdm
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:13:08.928
+!MESSAGE Evaluating XPath
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:13:08.929
+!MESSAGE Transforming result
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:13:08.929
+!MESSAGE Result atomic value: false
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:13:08.929
+!MESSAGE Pretty printing
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:13:10.171
+!MESSAGE Evaluating XPath: /text()
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:13:10.171
+!MESSAGE Against XML with length: 166238
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:13:10.172
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:13:10.172
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:13:10.172
+!MESSAGE Building Xdm
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:13:10.179
+!MESSAGE Evaluating XPath
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:13:10.180
+!MESSAGE Transforming result
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:13:10.180
+!MESSAGE Result atomic value: false
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:13:10.180
+!MESSAGE Pretty printing
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:13:14.014
+!MESSAGE Evaluating XPath: //text()
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:13:14.014
+!MESSAGE Against XML with length: 166238
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:13:14.015
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:13:14.015
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:13:14.015
+!MESSAGE Building Xdm
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:13:14.020
+!MESSAGE Evaluating XPath
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:13:14.022
+!MESSAGE Transforming result
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:13:14.022
+!MESSAGE Result atomic value: false
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:13:14.023
+!MESSAGE Pretty printing
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:13:15.089
+!MESSAGE Evaluating XPath: //text()
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:13:15.090
+!MESSAGE Against XML with length: 166238
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:13:15.090
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:13:15.090
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:13:15.091
+!MESSAGE Building Xdm
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:13:15.098
+!MESSAGE Evaluating XPath
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:13:15.101
+!MESSAGE Transforming result
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:13:15.101
+!MESSAGE Result atomic value: false
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:13:15.101
+!MESSAGE Pretty printing
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:13:33.375
+!MESSAGE Evaluating XPath: //Lap/Text()
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:13:33.375
+!MESSAGE Against XML with length: 166238
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:13:33.376
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:13:33.376
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:13:38.066
+!MESSAGE Evaluating XPath: //Lap/text()
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:13:38.067
+!MESSAGE Against XML with length: 166238
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:13:38.067
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:13:38.067
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:13:38.074
+!MESSAGE Building Xdm
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:13:38.080
+!MESSAGE Evaluating XPath
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:13:38.082
+!MESSAGE Transforming result
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:13:38.083
+!MESSAGE Result atomic value: false
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:13:38.083
+!MESSAGE Pretty printing
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:13:39.093
+!MESSAGE Evaluating XPath: //Lap/text()
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:13:39.093
+!MESSAGE Against XML with length: 166238
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:13:39.095
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:13:39.095
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:13:39.096
+!MESSAGE Building Xdm
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:13:39.107
+!MESSAGE Evaluating XPath
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:13:39.108
+!MESSAGE Transforming result
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:13:39.108
+!MESSAGE Result atomic value: false
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:13:39.108
+!MESSAGE Pretty printing
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:14:28.825
+!MESSAGE Evaluating XPath: /
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:14:28.825
+!MESSAGE Against XML with length: 166238
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:14:28.825
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:14:28.826
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:14:28.826
+!MESSAGE Building Xdm
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:14:28.831
+!MESSAGE Evaluating XPath
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:14:28.832
+!MESSAGE Transforming result
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:14:28.832
+!MESSAGE Result atomic value: false
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:14:28.832
+!MESSAGE Pretty printing
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:14:37.976
+!MESSAGE Evaluating XPath: /text()
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:14:37.976
+!MESSAGE Against XML with length: 166238
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:14:37.976
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:14:37.976
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:14:37.977
+!MESSAGE Building Xdm
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:14:37.982
+!MESSAGE Evaluating XPath
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:14:37.982
+!MESSAGE Transforming result
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:14:37.982
+!MESSAGE Result atomic value: false
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:14:37.982
+!MESSAGE Pretty printing
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:14:44.107
+!MESSAGE Evaluating XPath: //text()
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:14:44.107
+!MESSAGE Against XML with length: 166238
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:14:44.108
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:14:44.108
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:14:44.108
+!MESSAGE Building Xdm
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:14:44.112
+!MESSAGE Evaluating XPath
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:14:44.114
+!MESSAGE Transforming result
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:14:44.114
+!MESSAGE Result atomic value: false
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:14:44.114
+!MESSAGE Pretty printing
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:15:25.582
+!MESSAGE Evaluating XPath: /TrainingCenterDatabase
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:15:25.582
+!MESSAGE Against XML with length: 166238
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:15:25.583
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:15:25.583
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:15:25.583
+!MESSAGE Building Xdm
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:15:25.591
+!MESSAGE Evaluating XPath
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:15:25.591
+!MESSAGE Transforming result
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:15:25.592
+!MESSAGE Result atomic value: false
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:15:25.592
+!MESSAGE Pretty printing
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:15:27.886
+!MESSAGE Evaluating XPath: /TrainingCenterDatabase/
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:15:27.886
+!MESSAGE Against XML with length: 166238
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:15:27.887
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:15:27.887
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:15:35.814
+!MESSAGE Evaluating XPath: /TrainingCenterDatabase/Activities
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:15:35.814
+!MESSAGE Against XML with length: 166238
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:15:35.815
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:15:35.815
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:15:35.815
+!MESSAGE Building Xdm
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:15:35.820
+!MESSAGE Evaluating XPath
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:15:35.821
+!MESSAGE Transforming result
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:15:35.821
+!MESSAGE Result atomic value: false
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:15:35.821
+!MESSAGE Pretty printing
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:15:36.767
+!MESSAGE Evaluating XPath: /TrainingCenterDatabase/Activities
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:15:36.767
+!MESSAGE Against XML with length: 166238
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:15:36.768
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:15:36.768
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:15:36.769
+!MESSAGE Building Xdm
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:15:36.774
+!MESSAGE Evaluating XPath
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:15:36.775
+!MESSAGE Transforming result
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:15:36.776
+!MESSAGE Result atomic value: false
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:15:36.776
+!MESSAGE Pretty printing
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:15:40.286
+!MESSAGE Evaluating XPath: //TrainingCenterDatabase/Activities
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:15:40.286
+!MESSAGE Against XML with length: 166238
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:15:40.287
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:15:40.287
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:15:40.288
+!MESSAGE Building Xdm
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:15:40.295
+!MESSAGE Evaluating XPath
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:15:40.295
+!MESSAGE Transforming result
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:15:40.296
+!MESSAGE Result atomic value: false
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:15:40.296
+!MESSAGE Pretty printing
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:18:48.101
+!MESSAGE Evaluating XPath: /
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:18:48.102
+!MESSAGE Against XML with length: 236
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:18:48.102
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:18:48.103
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:18:48.103
+!MESSAGE Building Xdm
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:18:48.103
+!MESSAGE Evaluating XPath
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:18:48.104
+!MESSAGE Transforming result
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:18:48.104
+!MESSAGE Result atomic value: false
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:18:48.104
+!MESSAGE Pretty printing
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:19:08.644
+!MESSAGE Evaluating XPath: /BusinessCard
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:19:08.644
+!MESSAGE Against XML with length: 236
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:19:08.644
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:19:08.644
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:19:08.645
+!MESSAGE Building Xdm
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:19:08.645
+!MESSAGE Evaluating XPath
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:19:08.645
+!MESSAGE Transforming result
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:19:08.646
+!MESSAGE Result atomic value: false
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:19:08.646
+!MESSAGE Pretty printing
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:19:17.740
+!MESSAGE Evaluating XPath: /BusinessCard/Name
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:19:17.740
+!MESSAGE Against XML with length: 236
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:19:17.741
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:19:17.741
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:19:17.741
+!MESSAGE Building Xdm
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:19:17.742
+!MESSAGE Evaluating XPath
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:19:17.742
+!MESSAGE Transforming result
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:19:17.742
+!MESSAGE Result atomic value: false
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:19:17.742
+!MESSAGE Pretty printing
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:19:34.125
+!MESSAGE Evaluating XPath: /Name
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:19:34.126
+!MESSAGE Against XML with length: 236
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:19:34.126
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:19:34.127
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:19:34.128
+!MESSAGE Building Xdm
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:19:34.129
+!MESSAGE Evaluating XPath
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:19:34.129
+!MESSAGE Transforming result
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:19:34.130
+!MESSAGE Result atomic value: false
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:19:34.130
+!MESSAGE Pretty printing
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:19:38.336
+!MESSAGE Evaluating XPath: //Name
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:19:38.337
+!MESSAGE Against XML with length: 236
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:19:38.337
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:19:38.338
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:19:38.339
+!MESSAGE Building Xdm
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:19:38.341
+!MESSAGE Evaluating XPath
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:19:38.342
+!MESSAGE Transforming result
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:19:38.342
+!MESSAGE Result atomic value: false
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:19:38.343
+!MESSAGE Pretty printing
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:19:55.316
+!MESSAGE Evaluating XPath: //Name/text()
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:19:55.317
+!MESSAGE Against XML with length: 236
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:19:55.317
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:19:55.318
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:19:55.318
+!MESSAGE Building Xdm
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:19:55.318
+!MESSAGE Evaluating XPath
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:19:55.319
+!MESSAGE Transforming result
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:19:55.319
+!MESSAGE Result atomic value: false
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:19:55.319
+!MESSAGE Pretty printing
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:20:19.846
+!MESSAGE Evaluating XPath: /BusinessCard/phone
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:20:19.846
+!MESSAGE Against XML with length: 236
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:20:19.847
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:20:19.847
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:20:19.848
+!MESSAGE Building Xdm
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:20:19.849
+!MESSAGE Evaluating XPath
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:20:19.849
+!MESSAGE Transforming result
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:20:19.849
+!MESSAGE Result atomic value: false
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:20:19.850
+!MESSAGE Pretty printing
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:21:34.665
+!MESSAGE Evaluating XPath: //phone
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:21:34.666
+!MESSAGE Against XML with length: 236
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:21:34.667
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:21:34.667
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:21:34.667
+!MESSAGE Building Xdm
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:21:34.668
+!MESSAGE Evaluating XPath
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:21:34.668
+!MESSAGE Transforming result
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:21:34.669
+!MESSAGE Result atomic value: false
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:21:34.669
+!MESSAGE Pretty printing
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:29:35.326
+!MESSAGE Evaluating XPath: //items/item/@id
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:29:35.327
+!MESSAGE Against XML with length: 509
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:29:35.327
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:29:35.327
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:29:35.328
+!MESSAGE Building Xdm
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:29:35.328
+!MESSAGE Evaluating XPath
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:29:35.329
+!MESSAGE Transforming result
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:29:35.330
+!MESSAGE Result atomic value: false
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:29:35.330
+!MESSAGE Pretty printing
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:29:44.573
+!MESSAGE Evaluating XPath: //items/item[1]/@id
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:29:44.573
+!MESSAGE Against XML with length: 509
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:29:44.574
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:29:44.574
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:29:44.575
+!MESSAGE Building Xdm
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:29:44.575
+!MESSAGE Evaluating XPath
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:29:44.576
+!MESSAGE Transforming result
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:29:44.576
+!MESSAGE Result atomic value: false
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:29:44.576
+!MESSAGE Pretty printing
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:30:01.366
+!MESSAGE Evaluating XPath: //items/item
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:30:01.367
+!MESSAGE Against XML with length: 509
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:30:01.367
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:30:01.367
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:30:01.368
+!MESSAGE Building Xdm
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:30:01.368
+!MESSAGE Evaluating XPath
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:30:01.369
+!MESSAGE Transforming result
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:30:01.369
+!MESSAGE Result atomic value: false
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-27 22:30:01.369
+!MESSAGE Pretty printing
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:05:40.744
+!MESSAGE Evaluating XPath: //Activities
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:05:40.745
+!MESSAGE Against XML with length: 166238
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:05:40.746
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:05:40.746
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:05:40.746
+!MESSAGE Building Xdm
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:05:40.751
+!MESSAGE Evaluating XPath
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:05:40.752
+!MESSAGE Transforming result
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:05:40.752
+!MESSAGE Result atomic value: false
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:05:40.752
+!MESSAGE Pretty printing
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:06:26.295
+!MESSAGE Evaluating XPath: //ns:Activities
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:06:26.296
+!MESSAGE Against XML with length: 166238
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:06:26.296
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:06:26.296
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:06:48.775
+!MESSAGE Evaluating XPath: //ns3:Activities
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:06:48.776
+!MESSAGE Against XML with length: 166238
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:06:48.776
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:06:48.776
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:06:50.081
+!MESSAGE Evaluating XPath: //ns3:Activities
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:06:50.081
+!MESSAGE Against XML with length: 166238
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:06:50.081
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:06:50.082
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:07:03.570
+!MESSAGE Evaluating XPath: xmlns:ns5
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:07:03.570
+!MESSAGE Against XML with length: 166238
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:07:03.571
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:07:03.571
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:07:04.211
+!MESSAGE Evaluating XPath: xmlns:ns5
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:07:04.211
+!MESSAGE Against XML with length: 166238
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:07:04.212
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:07:04.212
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:07:44.256
+!MESSAGE Evaluating XPath: //Activities
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:07:44.256
+!MESSAGE Against XML with length: 166238
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:07:44.257
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:07:44.257
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:07:44.258
+!MESSAGE Building Xdm
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:07:44.265
+!MESSAGE Evaluating XPath
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:07:44.265
+!MESSAGE Transforming result
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:07:44.265
+!MESSAGE Result atomic value: false
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:07:44.265
+!MESSAGE Pretty printing
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:07:45.594
+!MESSAGE Evaluating XPath: //Activities
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:07:45.594
+!MESSAGE Against XML with length: 166238
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:07:45.595
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:07:45.595
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:07:45.596
+!MESSAGE Building Xdm
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:07:45.601
+!MESSAGE Evaluating XPath
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:07:45.601
+!MESSAGE Transforming result
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:07:45.601
+!MESSAGE Result atomic value: false
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:07:45.601
+!MESSAGE Pretty printing
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:07:46.601
+!MESSAGE Evaluating XPath: //Activities/
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:07:46.602
+!MESSAGE Against XML with length: 166238
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:07:46.602
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:07:46.603
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:08:00.514
+!MESSAGE Evaluating XPath: //TrainingCenterDatabase
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:08:00.514
+!MESSAGE Against XML with length: 166238
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:08:00.515
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:08:00.515
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:08:00.516
+!MESSAGE Building Xdm
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:08:00.521
+!MESSAGE Evaluating XPath
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:08:00.522
+!MESSAGE Transforming result
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:08:00.522
+!MESSAGE Result atomic value: false
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:08:00.522
+!MESSAGE Pretty printing
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:08:01.143
+!MESSAGE Evaluating XPath: //TrainingCenterDatabase
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:08:01.143
+!MESSAGE Against XML with length: 166238
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:08:01.144
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:08:01.144
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:08:01.145
+!MESSAGE Building Xdm
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:08:01.149
+!MESSAGE Evaluating XPath
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:08:01.150
+!MESSAGE Transforming result
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:08:01.150
+!MESSAGE Result atomic value: false
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:08:01.150
+!MESSAGE Pretty printing
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:09:11.580
+!MESSAGE Evaluating XPath: //xsi:Activities
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:09:11.581
+!MESSAGE Against XML with length: 166238
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:09:11.581
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:09:11.582
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:09:12.484
+!MESSAGE Evaluating XPath: //xsi:Activities
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:09:12.484
+!MESSAGE Against XML with length: 166238
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:09:12.485
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:09:12.485
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:09:43.917
+!MESSAGE Evaluating XPath: //xsi:Activities
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:09:43.918
+!MESSAGE Against XML with length: 166238
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:09:43.918
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:09:43.918
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:09:43.919
+!MESSAGE Building Xdm
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:09:43.924
+!MESSAGE Evaluating XPath
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:09:43.924
+!MESSAGE Transforming result
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:09:43.925
+!MESSAGE Result atomic value: false
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:09:43.925
+!MESSAGE Pretty printing
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:09:44.926
+!MESSAGE Evaluating XPath: //xsi:Activities
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:09:44.926
+!MESSAGE Against XML with length: 166238
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:09:44.927
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:09:44.927
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:09:44.927
+!MESSAGE Building Xdm
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:09:44.933
+!MESSAGE Evaluating XPath
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:09:44.933
+!MESSAGE Transforming result
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:09:44.934
+!MESSAGE Result atomic value: false
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:09:44.934
+!MESSAGE Pretty printing
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:22:55.633
+!MESSAGE Evaluating XPath: //ns:Activity
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:22:55.634
+!MESSAGE Against XML with length: 166238
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:22:55.635
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:22:55.635
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:22:55.635
+!MESSAGE Building Xdm
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:22:55.643
+!MESSAGE Evaluating XPath
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:22:55.643
+!MESSAGE Transforming result
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:22:55.644
+!MESSAGE Result atomic value: false
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:22:55.644
+!MESSAGE Pretty printing
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:25:13.383
+!MESSAGE Evaluating XPath: //ns:Activity
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:25:13.384
+!MESSAGE Against XML with length: 2243635
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:25:13.385
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:25:13.385
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:25:13.386
+!MESSAGE Building Xdm
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:25:13.460
+!MESSAGE Evaluating XPath
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:25:13.461
+!MESSAGE Transforming result
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:25:13.461
+!MESSAGE Result atomic value: false
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 09:25:13.461
+!MESSAGE Pretty printing
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:13:59.885
+!MESSAGE Evaluating XPath: //ns:Trackpoint/ns:Extensions
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:13:59.887
+!MESSAGE Against XML with length: 2243635
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:13:59.887
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:13:59.887
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:13:59.888
+!MESSAGE Building Xdm
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:13:59.968
+!MESSAGE Evaluating XPath
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:13:59.977
+!MESSAGE Transforming result
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:13:59.977
+!MESSAGE Result atomic value: false
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:13:59.978
+!MESSAGE Pretty printing
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:14:24.087
+!MESSAGE Evaluating XPath: //ns:Trackpoint/ns:Extensions/TPX
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:14:24.088
+!MESSAGE Against XML with length: 2243635
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:14:24.089
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:14:24.089
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:14:24.089
+!MESSAGE Building Xdm
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:14:24.157
+!MESSAGE Evaluating XPath
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:14:24.160
+!MESSAGE Transforming result
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:14:24.161
+!MESSAGE Result atomic value: false
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:14:24.161
+!MESSAGE Pretty printing
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:14:27.122
+!MESSAGE Evaluating XPath: //ns:Trackpoint/ns:Extensions/ns:TPX
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:14:27.122
+!MESSAGE Against XML with length: 2243635
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:14:27.123
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:14:27.124
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:14:27.124
+!MESSAGE Building Xdm
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:14:27.198
+!MESSAGE Evaluating XPath
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:14:27.203
+!MESSAGE Transforming result
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:14:27.203
+!MESSAGE Result atomic value: false
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:14:27.203
+!MESSAGE Pretty printing
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:14:34.576
+!MESSAGE Evaluating XPath: //ns:Watts
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:14:34.576
+!MESSAGE Against XML with length: 2243635
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:14:34.576
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:14:34.577
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:14:34.577
+!MESSAGE Building Xdm
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:14:34.639
+!MESSAGE Evaluating XPath
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:14:34.640
+!MESSAGE Transforming result
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:14:34.640
+!MESSAGE Result atomic value: false
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:14:34.641
+!MESSAGE Pretty printing
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:17:50.957
+!MESSAGE Evaluating XPath: //ns:Lap
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:17:50.960
+!MESSAGE Against XML with length: 2388511
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:17:50.960
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:17:50.960
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:17:50.961
+!MESSAGE Building Xdm
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:17:51.022
+!MESSAGE Evaluating XPath
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:17:51.023
+!MESSAGE Transforming result
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:17:51.023
+!MESSAGE Result atomic value: false
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:17:51.023
+!MESSAGE Pretty printing
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:18:11.549
+!MESSAGE Evaluating XPath: //ns:Trackpoint/Position.children
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:18:11.550
+!MESSAGE Against XML with length: 2388511
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:18:11.550
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:18:11.551
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:18:11.551
+!MESSAGE Building Xdm
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:18:11.621
+!MESSAGE Evaluating XPath
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:18:11.622
+!MESSAGE Transforming result
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:18:11.622
+!MESSAGE Result atomic value: false
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:18:11.622
+!MESSAGE Pretty printing
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:18:14.542
+!MESSAGE Evaluating XPath: //ns:Trackpoint/ns:Position.children
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:18:14.542
+!MESSAGE Against XML with length: 2388511
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:18:14.543
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:18:14.543
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:18:14.544
+!MESSAGE Building Xdm
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:18:14.612
+!MESSAGE Evaluating XPath
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:18:14.614
+!MESSAGE Transforming result
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:18:14.614
+!MESSAGE Result atomic value: false
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:18:14.614
+!MESSAGE Pretty printing
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:19:20.382
+!MESSAGE Evaluating XPath: //ns:Trackpoint/ns:Position/*
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:19:20.383
+!MESSAGE Against XML with length: 2388511
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:19:20.383
+!MESSAGE Pretty print:true
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:19:20.384
+!MESSAGE Getting XPath executable
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:19:20.384
+!MESSAGE Building Xdm
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:19:20.474
+!MESSAGE Evaluating XPath
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:19:20.482
+!MESSAGE Transforming result
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:19:20.482
+!MESSAGE Result atomic value: false
+
+!ENTRY eu.musoft.eclipse.xpath.evaluation.plugin 1 0 2015-05-28 10:19:20.483
+!MESSAGE Pretty printing
+
+!ENTRY org.eclipse.core.jobs 4 2 2015-05-28 15:18:34.213
+!MESSAGE An internal error occurred during: "Sending Analytics Ping ...".
+!STACK 0
+java.lang.NullPointerException
+	at com.aptana.usage.internal.DefaultAnalyticsEventHandler.getAnalyticsLogger(DefaultAnalyticsEventHandler.java:207)
+	at com.aptana.usage.internal.DefaultAnalyticsEventHandler.sendEventSync(DefaultAnalyticsEventHandler.java:224)
+	at com.aptana.usage.internal.DefaultAnalyticsEventHandler$1.run(DefaultAnalyticsEventHandler.java:75)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
