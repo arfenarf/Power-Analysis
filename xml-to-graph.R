@@ -1,5 +1,6 @@
-# rough list of approximately how I got to that first plot... 
-# Do not expect this to run.
+# this script assumes we've run something like xml-loading-parsing.R
+# and built a set of tables, one of lap data and
+# one of trackpoint data, for each rider out of their TCX files.
 library(signal)
 library(dplyr)
 library(ggplot2)
@@ -7,7 +8,9 @@ library(tidyr)
 
 library(lubridate)
 
-#assumes we have data tables called dlap, klap, dtrackpoints, ktrackpoints
+# assumes we have data tables called dlap, klap, dtrackpoints, ktrackpoints
+# this round brute-forces repeated activities over both files 
+# next step is to put a more generic looping wrapper around it
 
 ktrackpoints <- mutate(ktrackpoints, Rider = "K")
 dtrackpoints <- mutate(dtrackpoints, Rider = "D")
@@ -37,7 +40,7 @@ cleandata$filtered.watts[cleandata$Rider == "D"] <- signal::filter(bf, cleandata
 cleandata$filtered.watts[cleandata$Rider == "K"] <- signal::filter(bf, cleandata$Watts[cleandata$Rider == "K"])
 
 #this is a test plot to see what we have in the raw stuff
-par(mfrow = 1, mfcol = 1)
+par(mfrow = c(1,1))
 plot(time, dtrackpoints$HeartRateBpm, type = "l", col = "red")
 lines(cleandata$Time[cleandata$Rider == "D"], cleandata$filtered.watts[cleandata$Rider == "D"], col = "green")
 lines(cleandata$Time[cleandata$Rider == "K"], cleandata$filtered.watts[cleandata$Rider == "K"])
@@ -89,8 +92,17 @@ narrow <- wide %>% gather(riderup, value, kup:dup)
 ggplot(narrow, aes(Time, value)) + geom_area(aes(fill = riderup))
 
 #how many minutes was someone up?
-table(narrow$riderup[narrow$value != 0])
+
+timetable <- table(narrow$riderup[narrow$value != 0])
+timetable
+print(paste("Total Rolling Minutes:", sum(timetable)))
+kup <- timetable[1]
+dup<- timetable[2]
+kpct <- kup/(sum(timetable))*100
+dpct <- dup/sum(timetable)*100
+print(paste("K up:", kpct, "%  /  D up:", dpct))
 
 #what does this look like in base plotting?
 plot(wide$Time, wide$kup, type = "l", ylim = c(-100, 50))
 lines(wide$Time, wide$dup, col = "red")
+

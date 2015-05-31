@@ -62,6 +62,8 @@ klap_ex <- xmlToDataFrame(nodes <- getNodeSet(kgw_lr_root, "//ns:Lap/ns:Extensio
 # (not sure we really need this but if you want 'em)
 
 ktrackpoints <- xmlToDataFrame(nodes <- getNodeSet(kgw_lr_root, "//ns:Trackpoint", ns), stringsAsFactors = FALSE)
+# goes away to the faeries for a long time on big files like this.
+# start looking for efficiencies.
 # Time (comes in as chr, like all these, we'll have to parse later)
 # Position (lat lon crammed together, as they're being pulled out of child tags)
 # DistanceMeters (total distance for ride as of this moment)
