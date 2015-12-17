@@ -41,7 +41,7 @@ cleandata$filtered.watts[cleandata$Rider == "K"] <- signal::filter(bf, cleandata
 
 #this is a test plot to see what we have in the raw stuff
 par(mfrow = c(1,1))
-plot(time, dtrackpoints$HeartRateBpm, type = "l", col = "red")
+plot(dtrackpoints$Time, dtrackpoints$HeartRateBpm, type = "l", col = "red")
 lines(cleandata$Time[cleandata$Rider == "D"], cleandata$filtered.watts[cleandata$Rider == "D"], col = "green")
 lines(cleandata$Time[cleandata$Rider == "K"], cleandata$filtered.watts[cleandata$Rider == "K"])
 
